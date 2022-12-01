@@ -26,11 +26,11 @@
 * BACK
   * <img src="https://img.shields.io/badge/mysql2-4479A1?style=for-the-badge&logo=mysql&logoColor=black">
   * <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=black">
-  * <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=black">
-  * <img src="https://img.shields.io/badge/express_session-000000?style=for-the-badge&logo=express&logoColor=black">
+  * <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+  * <img src="https://img.shields.io/badge/express_session-000000?style=for-the-badge&logo=express&logoColor=white">
   * <img src="https://img.shields.io/badge/cors-339933?style=for-the-badge&logo=node.js&logoColor=black">
   * <img src="https://img.shields.io/badge/bcrypt-339933?style=for-the-badge&logo=node.js&logoColor=black">
-  * <img src="https://img.shields.io/badge/json_Web_Token-000000?style=for-the-badge&logo=jsonWebToken&logoColor=black">
+  * <img src="https://img.shields.io/badge/json_Web_Tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
   * <img src="https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black">
 #
 ### 이슈 및 해결
