@@ -15,22 +15,23 @@
 #
 ### 사용한 라이브러리
 * FRONT
-  * styled-components
-  * react-router-dom
-  * redux, react-redux
-  * redux-devtools-extension
-  * thunk
-  * axios
-  * swiper
-  * react-cookie
+  * <img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=black">
+  * <img src="https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=black">
+  * <img src="https://img.shields.io/badge/react_redux-764ABC?style=for-the-badge&logo=redux&logoColor=black">
+  * <img src="https://img.shields.io/badge/redux_devtool_sextension-764ABC?style=for-the-badge&logo=redux&logoColor=black">
+  * <img src="https://img.shields.io/badge/thunk-339933?style=for-the-badge&logo=node.js&logoColor=black">
+  * <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=black">
+  * <img src="https://img.shields.io/badge/swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=black">
+  * <img src="https://img.shields.io/badge/react_cookie-339933?style=for-the-badge&logo=node.js&logoColor=black">
 * BACK
-  * mysql2
-  * sequelize
-  * express, express-session
-  * cors
-  * bcrypt
-  * jsonWebToken
-  * dotenv
+  * <img src="https://img.shields.io/badge/mysql2-4479A1?style=for-the-badge&logo=mysql&logoColor=black">
+  * <img src="https://img.shields.io/badge/sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=black">
+  * <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=black">
+  * <img src="https://img.shields.io/badge/express_session-000000?style=for-the-badge&logo=express&logoColor=black">
+  * <img src="https://img.shields.io/badge/cors-339933?style=for-the-badge&logo=node.js&logoColor=black">
+  * <img src="https://img.shields.io/badge/bcrypt-339933?style=for-the-badge&logo=node.js&logoColor=black">
+  * <img src="https://img.shields.io/badge/json_Web_Token-000000?style=for-the-badge&logo=jsonWebToken&logoColor=black">
+  * <img src="https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black">
 #
 ### 이슈 및 해결
   ##### 회원가입 및 로그인 오류시에도 페이지가 넘어감
