@@ -87,16 +87,34 @@ Header navigate에서 패키지에 마우스를 올리면 제주 혹은 양양 �
 
 <img src="https://github.com/Poltia/ReactProject/blob/main/readme_imgs/post.png">
 
-DB에 저장된 게시글 목록을 불러와서 제목과 작성자를 보여줌.
+<img src="https://github.com/Poltia/ReactProject/blob/main/readme_imgs/write.png">
+
+Database에 저장된 게시글 목록을 불러와서 제목과 작성자를 보여줌.
 게시글 제목을 클릭하면 해당 게시글 확인 가능.
+"글쓰기" 버튼으로 작성 페이지로 넘어가 게시글 작성 가능하고, 게시글은 작성자와 함께 Database에 저장.
 
 <br/>
 
--   
-<img src="">
+-   MY 페이지
+
+<img src="https://github.com/Poltia/ReactProject/blob/main/readme_imgs/mypage.png">
+
+<img src="https://github.com/Poltia/ReactProject/blob/main/readme_imgs/mypage_.png">
+
+로그인 시 Header Navigate 에 있었던 로그인 버튼이 회원 아이디로 바뀌고, 클릭하면 MY페이지로 이동하게 된다.
+내 예약 정보 확인 및 취소 가능.
+회원 정보 란에 비밀번호를 한번 더 입력하면 회원 정보 수정 가능.
+
 <br/>
-<img src="">
-<br/>
+
+-   회원가입 페이지
+
+<img src="https://github.com/Poltia/ReactProject/blob/main/readme_imgs/signup.png">
+
+아이디, 비밀번호, 전화번호, E-mail을 형식에 맞게 입력받아 Datavase에 저장.
+아이디 중복확인 기능 구현.
+비밀번호 형식 및 confirm 구현.
+E-mail 도메인을 직접입력하지않고 선택하게 구현.
 
 #
 
