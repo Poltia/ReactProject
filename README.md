@@ -42,7 +42,61 @@
 
 ### 페이지 소개
 
-<img>
+<br/>
+
+-   메인 페이지
+
+<img src="https://github.com/Poltia/ReactProject/blob/main/readme_imgs/main.png">
+
+Swiper Library를 사용해 가운데 그림이 넘어가도록 구현.
+해당 이미지를 클릭하면 예약 페이지로 넘어가도록 구현.
+
+<br/>
+
+-   패키지 예약 페이지
+
+<img src="https://github.com/Poltia/ReactProject/blob/main/readme_imgs/package_jeju.png">
+
+<img src="https://github.com/Poltia/ReactProject/blob/main/readme_imgs/package_yang.png">
+
+Header navigate에서 패키지에 마우스를 올리면 제주 혹은 양양 패키지 페이지로 이동 할 수 있는 탭을 보여줌.
+패키지 상품 선택 후 예약 확인 클릭시 현재 예약 인수를 띄워주고, 예약 가능.
+
+<br/>
+
+-   항공 예약 페이지
+
+<img src="https://github.com/Poltia/ReactProject/blob/main/readme_imgs/air.png">
+
+목적지와 날짜를 선택하면 예약 현황 "확인하기" 버튼을 클릭해 현재 예약현황 확인 가능.
+좌석을 클릭해 선택된 좌석 예약 가능.
+
+<br/>
+
+-   호텔 예약 패키지
+
+<img src="https://github.com/Poltia/ReactProject/blob/main/readme_imgs/hotel.png">
+
+지역, 숙박 일수 선택후 예약 현황 확인하고 예약 가능.
+
+<br/>
+
+-   후기(리뷰) 페이지
+
+<img src="https://github.com/Poltia/ReactProject/blob/main/readme_imgs/review.png">
+
+<img src="https://github.com/Poltia/ReactProject/blob/main/readme_imgs/post.png">
+
+DB에 저장된 게시글 목록을 불러와서 제목과 작성자를 보여줌.
+게시글 제목을 클릭하면 해당 게시글 확인 가능.
+
+<br/>
+
+-   
+<img src="">
+<br/>
+<img src="">
+<br/>
 
 #
 
