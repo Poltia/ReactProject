@@ -14,7 +14,7 @@
 
 - 예약 상황 실시간 반영
 - 회원 정보 DB 구축
-<br/><img src="https://github.com/Poltia/ReactProject/blob/main/readme_imgs/DB_ERD.png" />
+<br/><img width="50%" src="https://github.com/Poltia/ReactProject/blob/main/readme_imgs/DB_ERD.png" />
 
 
 #
